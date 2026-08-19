@@ -9,7 +9,7 @@ def get_connection():
         host='localhost',
         user='root',
         password='',
-        database='sellams_edimoshop'
+        database='sellams_edimoshop',
         port=3307
     )
 
